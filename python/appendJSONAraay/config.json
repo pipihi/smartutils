@@ -1,0 +1,9 @@
+{
+	"idCol":"id",
+	"appendIdCol":["tile"],
+	"demoPath":"H:\\gitprj\\com.pipihi.utils\\python\\appendJSONAraay\\demo.json",
+	"savePath":"H:\\gitprj\\com.pipihi.utils\\python\\appendJSONAraay\\demo.json",
+	"copyFromNum":0,
+	"copyToNum":1,
+	"loopCopyNum":1
+}
